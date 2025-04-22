@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SEA LAUNCH",
+  "symbol": "SEALCH",
+  "description": "Support ocean ventures on Unit Network. SEA funds marine conservation, ocean tech, and blue economy initiatives — tokenizing impact and ownership.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitSeaLaunch/main/SeaLaunch512.png",
+  "creator": {
+    "name": "UNIT SEA LAUNCH",
+    "site": "https://sea.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
